@@ -1,0 +1,14 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+  aCounter = 0;
+bCounter = 0;
+char ch = sentence.charAt(i);
+for (i = 0; i < sentence.length(); ++i) {
+    if (ch == 'a') {
+        aCounter++;
+    }
+    if (ch == 'b') {
+        bCounter++;
+    }
+}
